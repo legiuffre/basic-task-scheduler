@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj": {}
+    "C:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj": {
+    "C:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj",
+        "projectUniqueName": "C:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj",
         "projectName": "HelloApp",
-        "projectPath": "c:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj",
+        "projectPath": "C:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj",
         "packagesPath": "C:\\Users\\LauraGiuffre\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\obj\\",
+        "outputPath": "C:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LauraGiuffre\\AppData\\Roaming\\NuGet\\NuGet.Config"

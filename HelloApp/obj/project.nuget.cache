@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IsJnNngw7CuFdf4fiO0VUhPiaJKf4bYSCIB8QgIULxSa6UpDufBkfHA6Kub6PjrqDeVy/rCl+zsHJcRKANet7w==",
+  "dgSpecHash": "pR/t/tgJz9G3v75IoerehiNwYbZtgspjesBTVU14Pl5MggqoOy1BO3y4Gd3/PYQ0Z6BrXYJW7JnXn7Pvif/Afw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj",
+  "projectFilePath": "C:\\Users\\LauraGiuffre\\Documents\\GitHub\\hello\\HelloApp\\HelloApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LauraGiuffre\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\LauraGiuffre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
